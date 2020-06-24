@@ -1,0 +1,31 @@
+.container{
+
+    opacity: 80%;
+    text-align: center;
+
+
+}
+
+header{
+
+
+    border-color: Black;
+    padding-block-start: 10px   ;
+    background-color: black ;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    opacity: 40%;
+    outline-width: 10px;
+    outline: solid;
+    outline-color: black;
+}
+body{
+    
+background-image: url(image.jpg);
+background-size: 99%;
+    image-resolution:   unset;
+
+
+
+}
